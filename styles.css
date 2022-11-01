@@ -1,0 +1,22 @@
+#header{
+    background-color: #9675ce;
+    color: white;
+}
+
+#footer{
+    padding-top: 5mm;
+    background-color: #d0c4e8;
+}
+
+body, footer{
+    color: black;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
